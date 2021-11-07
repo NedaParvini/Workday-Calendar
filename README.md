@@ -6,7 +6,7 @@ https://nedaparvini.github.io/Workday-Calendar/
 How to Code:
 
 First, I created a repository and then clone it to my device.
-Then I wrote codes in html for different time blocks and defined them as separated <div>s 
+Then I wrote codes in html for different time blocks and defined them as separated<div>s 
 I gave them some Bootstrap styles.
 I also defined <script> so I assigned js external file
 In JS file first I defined saveBtn as a variable and then I wrote a code to show current day in top of the page
